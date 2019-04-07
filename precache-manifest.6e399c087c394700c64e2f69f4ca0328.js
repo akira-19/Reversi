@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "5fc1d8dd684dbff1a03d",
+    "revision": "bb5c09fb25609e29ecce",
     "url": "/Reversi/static/css/main.44625df5.chunk.css"
   },
   {
-    "revision": "5fc1d8dd684dbff1a03d",
-    "url": "/Reversi/static/js/main.00b2b2cb.chunk.js"
+    "revision": "bb5c09fb25609e29ecce",
+    "url": "/Reversi/static/js/main.1f038e27.chunk.js"
   },
   {
     "revision": "b759777c76bb305a436e",
     "url": "/Reversi/static/js/runtime~main.3ea17316.js"
   },
   {
-    "revision": "165094ba5495b533f27a",
-    "url": "/Reversi/static/js/2.bd3c1393.chunk.js"
+    "revision": "e33c81fe8bbd939ac489",
+    "url": "/Reversi/static/js/2.af951e06.chunk.js"
   },
   {
     "revision": "582aef09c013308a38eb25c86d6b7abf",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Reversi/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "b40ecf1dfb8911c175b1d9ef60bec206",
+    "revision": "0ab11528e2d945a2c409133184b39231",
     "url": "/Reversi/index.html"
   }
 ];
